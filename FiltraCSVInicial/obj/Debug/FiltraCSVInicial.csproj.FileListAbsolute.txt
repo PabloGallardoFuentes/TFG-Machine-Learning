@@ -1,0 +1,7 @@
+C:\Users\pablo.gallardo\Desktop\final\codigo\FiltraCSVInicial\bin\Debug\FiltraCSVInicial.exe.config
+C:\Users\pablo.gallardo\Desktop\final\codigo\FiltraCSVInicial\bin\Debug\FiltraCSVInicial.exe
+C:\Users\pablo.gallardo\Desktop\final\codigo\FiltraCSVInicial\bin\Debug\FiltraCSVInicial.pdb
+C:\Users\pablo.gallardo\Desktop\final\codigo\FiltraCSVInicial\obj\Debug\FiltraCSVInicial.csproj.AssemblyReference.cache
+C:\Users\pablo.gallardo\Desktop\final\codigo\FiltraCSVInicial\obj\Debug\FiltraCSVInicial.csproj.CoreCompileInputs.cache
+C:\Users\pablo.gallardo\Desktop\final\codigo\FiltraCSVInicial\obj\Debug\FiltraCSVInicial.exe
+C:\Users\pablo.gallardo\Desktop\final\codigo\FiltraCSVInicial\obj\Debug\FiltraCSVInicial.pdb
