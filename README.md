@@ -42,5 +42,6 @@ He estado realizando más pruebas con los archivos denominados <I>deep.ipynb</I>
 
 <details>
     <summary style="font-size:1.5em; font-weight:bold; margin-top:1em;">5. Guardar el modelo entrenado o cargarlo</summary>
+    El archivo <I>consumirModelEntrenado.ipynb</I> se puede usar cuando se ha guardado el modelo (y otros archivos de información) para no tener que realizar todo el proceso de entrenamiento cada vez que se desea saber los mejores conductores para una ruta, lo que ahorra mucho tiempo.
 </details>
 
