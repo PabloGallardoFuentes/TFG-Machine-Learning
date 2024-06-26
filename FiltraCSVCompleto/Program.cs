@@ -17,7 +17,7 @@ namespace FiltraCSVCompleto
                 DictionariesContainer diccionarios = LectorCSV.leeHistorico();
                 List<DatoML> inputsML = LectorCSV.TransformaHistoricoEnInputML(diccionarios.RutasPorID, diccionarios.RutasPorConductor);
 
-                LectorCSV.SacaCSVParaML(inputsML, "inputML2.csv");
+                LectorCSV.SacaCSVParaML(inputsML, "inputML.csv");
             } else
             {
                 Console.WriteLine("Busca el archivo filtrado en ./bin/Debug/recursos/");

@@ -213,19 +213,6 @@ namespace FiltraCSVCompleto
                     inputML.FechaEsperadaFinDeRuta = paradas[fechaFinIndex].FechaPlanificada;
                     inputML.FechaRealFinDeRuta = paradas[fechaFinIndex].FechaRealLlegada;
 
-                    /*if (paradas[fechaInicioIndex].IDConductor.Equals("DAT679181"))
-                        Console.WriteLine("conductor: " + paradas[fechaInicioIndex].IDConductor.PadRight(15) + "rutas: " + 
-                            nRutas.ToString().PadRight(8) + "porc: "+ inputML.PorcentajePuntosDeRuta.ToString().PadRight(8) +
-                            "ini:"+paradas[fechaInicioIndex].CodigoInterno.PadRight(10) + 
-                            "fin:"+paradas[fechaFinIndex].CodigoInterno);*/
-                    /*if (paso == 21612)
-                    {
-                        Console.WriteLine("conductor: " + paradas[fechaInicioIndex].IDConductor.PadRight(15) + "rutas: " +
-                            nRutas.ToString().PadRight(8) + "porc: " + inputML.PorcentajePuntosDeRuta.ToString().PadRight(8) +
-                            "ini:" + paradas[fechaInicioIndex].CodigoInterno.PadRight(10) +
-                            "fin:" + paradas[fechaFinIndex].CodigoInterno);
-                    }*/
-
 
                     if (inputML.FechaEsperadaFinDeRuta != "" && inputML.FechaRealFinDeRuta != "")
                         inputsML.Add(inputML);

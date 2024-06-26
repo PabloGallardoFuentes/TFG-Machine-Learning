@@ -5,3 +5,10 @@ C:\Users\pablo.gallardo\Desktop\continuacion\FiltraCSVCompleto\obj\Debug\FiltraC
 C:\Users\pablo.gallardo\Desktop\continuacion\FiltraCSVCompleto\obj\Debug\FiltraCSVCompleto.csproj.CoreCompileInputs.cache
 C:\Users\pablo.gallardo\Desktop\continuacion\FiltraCSVCompleto\obj\Debug\FiltraCSVCompleto.exe
 C:\Users\pablo.gallardo\Desktop\continuacion\FiltraCSVCompleto\obj\Debug\FiltraCSVCompleto.pdb
+C:\Users\pablo.gallardo\Desktop\final\codigo\FiltraCSVCompleto\bin\Debug\FiltraCSVCompleto.exe.config
+C:\Users\pablo.gallardo\Desktop\final\codigo\FiltraCSVCompleto\bin\Debug\FiltraCSVCompleto.exe
+C:\Users\pablo.gallardo\Desktop\final\codigo\FiltraCSVCompleto\bin\Debug\FiltraCSVCompleto.pdb
+C:\Users\pablo.gallardo\Desktop\final\codigo\FiltraCSVCompleto\obj\Debug\FiltraCSVCompleto.csproj.AssemblyReference.cache
+C:\Users\pablo.gallardo\Desktop\final\codigo\FiltraCSVCompleto\obj\Debug\FiltraCSVCompleto.csproj.CoreCompileInputs.cache
+C:\Users\pablo.gallardo\Desktop\final\codigo\FiltraCSVCompleto\obj\Debug\FiltraCSVCompleto.exe
+C:\Users\pablo.gallardo\Desktop\final\codigo\FiltraCSVCompleto\obj\Debug\FiltraCSVCompleto.pdb
