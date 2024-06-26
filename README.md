@@ -14,7 +14,7 @@ En los archivos subidos subidos a github faltan los siguientes por incapacidad d
 </details>
 
 <details>
-    <summary style="font-size:1.5em; font-weight:bold; margin-top:1em;">2. Creación de los kilómetros en vacío (en caso de no existir) y filtrado de outsiders</summary>
+    <summary style="font-size:1.5em; font-weight:bold; margin-top:1em;">## 2. Creación de los kilómetros en vacío (en caso de no existir) y filtrado de outsiders</summary>
     En caso de no tener los datos de kilómetros en vacío, se deben generar sintéticamente para el posterior modelado. Se necesita el archivo de <I>./recursos/inputML.csv</I> y se genera el archivo <I>./recursos/conKMsVacio.csv</I> y se utiliza el archivo <I>./generarKmsVacio.ipynb</I>. El tiempo de ejecución es breve.
 </details>
 
