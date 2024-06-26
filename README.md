@@ -3,7 +3,7 @@ Para llevar a cabo la utilización de la funcionalidad completa se deben seguir 
 
 En los archivos subidos subidos a github faltan los siguientes por incapacidad de subirlos por su tamaño:
 
-- <I>historic_repsol.csv</I>: historico inicial del que parte el primer filtrado
+- <I>historic_repsol.csv</I>: historico inicial del que parte el primer filtrado. Se debe colocar dentro de <I>FiltraCSVCompleto/bin/Debug/recursos/</I>
 - <I>inputML.csv</I>: archivo generado después de realizar el filtrado inicial de <I>historic_repsol.csv</I>
 - <I>100gruposCluster.csv</I>: condutor-ruta ya clasificados
 - <I>forestRegressor.joblib</I>: archivo que contiene el modelo ya entrenado y que ahorra tiempo a la hora de posteriores ejecuciones
@@ -42,5 +42,6 @@ He estado realizando más pruebas con los archivos denominados <I>deep.ipynb</I>
 
 <details>
     <summary style="font-size:1.5em; font-weight:bold; margin-top:1em;">5. Guardar el modelo entrenado o cargarlo</summary>
+    El archivo <I>consumirModelEntrenado.ipynb</I> se puede usar cuando se ha guardado el modelo (y otros archivos de información) para no tener que realizar todo el proceso de entrenamiento cada vez que se desea saber los mejores conductores para una ruta, lo que ahorra mucho tiempo.
 </details>
 
