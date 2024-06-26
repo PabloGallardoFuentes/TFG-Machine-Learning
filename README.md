@@ -3,7 +3,7 @@ Para llevar a cabo la utilización de la funcionalidad completa se deben seguir 
 
 En los archivos subidos subidos a github faltan los siguientes por incapacidad de subirlos por su tamaño:
 
-- <I>historic_repsol.csv</I>: historico inicial del que parte el primer filtrado. Se debe colocar dentro de <I>FiltraCSVCompleto/bin/Debug/recursos/</I>
+- <I>historic_repsol.csv</I>: historico inicial del que parte el primer filtrado. Se debe colocar dentro de <I>FiltraCSVCompleto/bin/Debug/recursos/</I>. Se puede encontrar en https://fieldeas-my.sharepoint.com/:x:/p/pablo_gallardo/EVE-ZIPna0tLk1khIoTy0OUB6cdG7RyXxm_BW991t7yFjw?e=GeX9AO
 - <I>inputML.csv</I>: archivo generado después de realizar el filtrado inicial de <I>historic_repsol.csv</I>
 - <I>100gruposCluster.csv</I>: condutor-ruta ya clasificados
 - <I>forestRegressor.joblib</I>: archivo que contiene el modelo ya entrenado y que ahorra tiempo a la hora de posteriores ejecuciones
