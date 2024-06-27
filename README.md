@@ -1,4 +1,4 @@
-# UTILIZACIÓN DEL ALGORITMO PARA OPTIMIZAR LA ASIGNACIÓN DE CONDUCTORES A UNA RUTA      
+# PROCESO A SEGUIR PARA LA UTILIZACIÓN DEL ALGORITMO PARA OPTIMIZAR LA ASIGNACIÓN DE CONDUCTORES A UNA RUTA      
 Para llevar a cabo la utilización de la funcionalidad completa se deben seguir distintos pasos, al menos la primera vez que se desee entrenar al modelo y guardarlo.
 
 En los archivos subidos subidos a github faltan los siguientes por incapacidad de subirlos por su tamaño:
@@ -37,7 +37,7 @@ En los archivos subidos subidos a github faltan los siguientes por incapacidad d
     <li>Asignando una puntuación a todos los conductores existentes para una ruta concreta. Los kilómetros en vacío para cada conductor son generados aleatoriamente, además incluye valores con los que no ha sido entrenado el algoritmo para ver su rendimiento.</li>
     <li>Analizando como evoluciona la puntuacion de un condutor concreto para una ruta concreta en función de los kilómetros en vacío que debe realizar.</li>
     </ol>
-He estado realizando más pruebas con los archivos denominados <I>deep.ipynb</I> y <I>deepSinCodigoInterno.ipynb</I> incluyendo las coordenadas de los puntos de parada y probando redes neuronales en estos casos. También se obtiene un buen rendimiento.
+He estado realizando más pruebas con los archivos denominados <I>deep.ipynb</I> y <I>deepSinCodigoInterno.ipynb</I> incluyendo las coordenadas de los puntos de parada y probando redes neuronales en estos casos. También se obtiene un muy buen rendimiento y podría implementarse también, pero tarda más tiempo en entrenarse.
 </details>
 
 <details>
