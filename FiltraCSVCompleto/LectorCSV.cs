@@ -238,7 +238,7 @@ namespace FiltraCSVCompleto
 
         public static void SacaCSVParaML(List<DatoML> inputsML, string archivo)
         {
-            string stringCSV = "IDconductor,CodigoInternoPuntoCarga,LatitudPuntoCarga,LongitudPuntoCarga,CodigoInternoPuntoDescarga,LatitudPuntoDescarga,LongitudPuntoCarga,NumParadas,PorcentajePunto,Retraso\n";
+            string stringCSV = "IDConductor,CodigoInternoPuntoCarga,LatitudPuntoCarga,LongitudPuntoCarga,CodigoInternoPuntoDescarga,LatitudPuntoDescarga,LongitudPuntoDescarga,NumParadas,PorcentajePunto,Retraso\n";
             int i = 0;
             foreach (DatoML input in inputsML)
             {
